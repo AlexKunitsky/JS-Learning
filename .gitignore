@@ -1,5 +1,5 @@
 # debug journals npm
-npm-debug.log*
+*.log
 
 # nodes of project
 node-modules
