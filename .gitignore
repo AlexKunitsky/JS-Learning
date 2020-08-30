@@ -1,0 +1,12 @@
+# debug journals npm
+npm-debug.log*
+
+# nodes of project
+node-modules
+
+# attributes of folder OSX
+.DS_Store
+
+# temp files
+*.tmp
+*~
