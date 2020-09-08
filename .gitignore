@@ -10,3 +10,4 @@ node-modules
 # temp files
 *.tmp
 *~
+node_modules
